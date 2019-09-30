@@ -1,2 +1,2 @@
-# ejercicios
-Ejercicios de GitHub
+# Lista de la compra
+Ejercicio de GitHub
